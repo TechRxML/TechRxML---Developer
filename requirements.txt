@@ -1,4 +1,2 @@
 PyQt5>=5.15.0
-pywin32>=305; platform_system == 'Windows'
-psutil>=5.9.0
 
